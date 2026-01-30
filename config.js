@@ -23,8 +23,8 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
+            yesBtn: "Yes silly",                                             // Text for "Yes" button
+            noBtn: "No i hate you andrew",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
         },
         second: {
@@ -34,23 +34,23 @@ const CONFIG = {
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            yesBtn: "I'D LOVE TO BABY",                                             // Text for "Yes" button
+            noBtn: "Fuck no i hate you"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "OMG MY WIFE LOVES ME TO DEATH 🥰🚀💝",  // Shows when they go past 5000%
+        high: "WOOW LEONIE YOU LOVE ME SO MUCH",              // Shows when they go past 1000%
+        normal: "leonie loves me!!!"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "YAY MY BELOVED WIFE LOVES ME!!!! 🎉💝💖💝💓",
+        message: "I love you sososososo much Leonie!!! 💓💓",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dk0smr14r/video/upload/v1769786771/Paramore_-_The_Only_Exception_Lyrics_giwail.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
