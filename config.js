@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "My beloved wife, will you be my valentine? 💞 ",
+    pageTitle: "My beloved wife ",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes silly",                                             // Text for "Yes" button
             noBtn: "No i hate you andrew",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "I LOVE MY HUSBAND SO MUCH!!"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
